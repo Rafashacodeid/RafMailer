@@ -31,10 +31,7 @@ Kami **tidak bertanggung jawab** atas penyalahgunaan alat ini.
 ## 🛠️ Prasyarat
 Pastikan sudah terpasang:
 - [Node.js](https://nodejs.org/) **versi 16 atau lebih tinggi**  
-- **NPM** (otomatis terpasang dengan Node.js)  
-- Akun Gmail dengan:
-  - **App Password** (jika 2FA aktif), atau  
-  - **Password Gmail biasa** (jika tanpa 2FA)  
+- **NPM** (otomatis terpasang dengan Node.js)
 
 ---
 
