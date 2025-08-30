@@ -40,7 +40,10 @@ Pastikan sudah terpasang:
 1. **Clone repositori**
    ```bash
    git clone https://github.com/rafashacodeid/rafmailer.git
+    ```
+   ```
    cd rafmailer
+   ```
 **Instal dependensi**
 
 ```bash
