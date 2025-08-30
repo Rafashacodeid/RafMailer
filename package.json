@@ -1,0 +1,25 @@
+{
+  "name": "rafmailer",
+  "version": "2.0.0",
+  "description": "Professional Gmail sender via Node.js (by Rafashacode.id)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "gmail",
+    "mailer",
+    "nodejs",
+    "rafcode",
+    "email",
+    "automation"
+  ],
+  "author": "RafashaCodeID",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0",
+    "nodemailer": "^6.9.8"
+  }
+}
