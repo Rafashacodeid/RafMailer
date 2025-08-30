@@ -18,6 +18,16 @@ Kami **tidak bertanggung jawab** atas penyalahgunaan alat ini.
 
 ---
 
+---
+
+
+![Screenshot](./assets/image.png)
+![Screenshot1](./assets/imagecopy.png)
+![Screenshot2](./assets/imagecopy2.png)
+
+
+---
+
 ## 🛠️ Prasyarat
 Pastikan sudah terpasang:
 - [Node.js](https://nodejs.org/) **versi 16 atau lebih tinggi**  
