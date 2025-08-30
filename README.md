@@ -10,11 +10,9 @@ Kami **tidak bertanggung jawab** atas penyalahgunaan alat ini.
 
 ## ✨ Fitur
 - 📧 **Pengiriman Email Massal** – Kirim banyak email ke satu penerima dengan cepat.  
-- 👤 **Nama Pengirim Acak** – Nama pengirim diacak dari daftar bertema teknologi.  
-- 📨 **ID Pesan Unik** – Setiap email punya `Message-ID` unik agar lebih valid.  
+- 👤 **Nama Pengirim Acak** – Nama pengirim diacak dari daftar bertema teknologi. 
 - 🎨 **Antarmuka CLI Profesional** – Warna dari `chalk` + teks keren dari `figlet`.  
 - 📝 **Pencatatan Log** – Riwayat pengiriman & error otomatis tersimpan di `history.log`.  
-- ⚙️ **Kustomisasi Mudah** – Bisa tambah nama pengirim atau edit kode sesuai kebutuhan.  
 
 ---
 
@@ -60,8 +58,6 @@ npm start
 🔐 Keamanan – Jangan bagikan kredensial Gmail (index.js).
 
 🚫 Penyalahgunaan – Spam/aktivitas ilegal bisa kena blokir atau masalah hukum.
-
-🎨 Kustomisasi – Edit array senderNames di index.js untuk nama pengirim unik.
 
 📜 Lisensi
 Proyek ini dilisensikan di bawah MIT License – lihat file LICENSE untuk detail.
