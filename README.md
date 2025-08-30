@@ -34,16 +34,16 @@ Pastikan sudah terpasang:
    ```bash
    git clone https://github.com/rafashacodeid/rafmailer.git
    cd rafmailer
-Instal dependensi
+**Instal dependensi**
 
-bash
-Copy code
+```bash
 npm install
-Jalankan RafMailer
+```
+***Jalankan RafMailer***
 
-bash
-Copy code
+```bash
 npm start
+```
 ⚠️ Peringatan
 ⏳ Batas Gmail – Gmail membatasi ~500 email/hari untuk akun gratis.
 
@@ -55,4 +55,4 @@ npm start
 
 📜 Lisensi
 Proyek ini dilisensikan di bawah MIT License – lihat file LICENSE untuk detail.
-``
+
