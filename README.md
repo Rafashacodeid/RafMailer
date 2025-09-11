@@ -20,6 +20,7 @@ Kami **tidak bertanggung jawab** atas penyalahgunaan alat ini.
 
 
 ![Screenshot](./assets/image.png)
+![Screenshot](./assets/imageu.png)
 ![Screenshot1](./assets/imagecopy.png)
 ![Screenshot2](./assets/imagecopy2.png)
 
