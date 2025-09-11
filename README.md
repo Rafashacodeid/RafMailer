@@ -1,4 +1,4 @@
-# RafMailer - Alat Pengirim Email Gmail Massal 🚨
+# RafMailer v3.1 - Alat Pengirim Email Gmail Massal 🚨
 
 **RafMailer** adalah alat **CLI berbasis Node.js** untuk mengirim email massal via Gmail dengan **nama pengirim acak** dan **ID pesan unik**.  
 
